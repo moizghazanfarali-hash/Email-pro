@@ -1,0 +1,117 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+.venv
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Streamlit
+.streamlit/
+streamlit/
+
+# Testing
+.pytest_cache/
+.coverage
+.tox/
+htmlcov/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+!contacts.csv.example
+!sample_contacts.csv
+
+# Output files
+final_emails.csv
+workflow_graph.png
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+*.swp
+
+# Credentials
+credentials.json
+token.json
+config.ini
+
+# Cache
+.cache/
+*.cache
+
+# Backups
+*.bak
+*.backup
+*~
+
+# Node modules (if using web components)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Local development
+local_config.py
+debug.log
+test_output/
+
+# IDE specific files
+.vscode/settings.json
+.vscode/extensions.json
+.idea/
+*.iml
+
+# Temporary files
+temp/
+tmp/
+*.temp
