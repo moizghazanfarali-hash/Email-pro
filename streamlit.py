@@ -366,7 +366,7 @@ st.markdown("""
     <div class="main-header">
         <div class="header-icon">📧</div>
         <div class="header-text">
-            <h1>EmailBlast Pro</h1>
+            <h1>Send Quick Email</h1>
             <p>Professional Email Campaign Manager — Send smarter, reach further</p>
         </div>
     </div>
